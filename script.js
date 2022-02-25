@@ -7,6 +7,7 @@ Multi-line comment
 6789
 */
 
+/* Adding a comment to this code*/
 (function() {
   var newLink = document.createElement("a");
   var allParagraphs = document.getElementsByTagName("p");
