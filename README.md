@@ -2,6 +2,7 @@
 An example of GitHub for MR501.
 
 ---
+Conflict!!!
 Just leaving this here!
 
 ## Letterpress tumblr waistcoat copper mug hoodie 
