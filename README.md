@@ -1,8 +1,6 @@
 # Example
 An example of GitHub for MR501.
 
-Just leaving this here!
-
 
 > Selvage chartreuse **activated charcoal pabst**. Kale chips butcher subway tile, yuccie humblebrag gluten-free tofu VHS keytar bitters raclette kogi coloring book chia.  
 
