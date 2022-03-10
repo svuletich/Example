@@ -1,8 +1,6 @@
 # Example
 An example of GitHub for MR501.
 
-Conflict!!!
-Second Try
 Just leaving this here!
 
 
@@ -22,3 +20,5 @@ Hot chicken wolf keffiyeh, locavore banjo whatever
 3. Poutine ethical iceland
  
 Sartorial direct trade edison bulb vegan narwhal tumeric cloud bread cliche blue bottle lyft butcher. Hashtag hammock fam, cred irony wolf tacos roof party small batch. Tote bag shoreditch retro, crucifix tattooed meggings fam organic drinking vinegar vaporware art party YOLO hell of yr. Four dollar toast post-ironic fam, williamsburg organic mumblecore kogi fingerstache meh cornhole hot chicken bitters echo park heirloom austin.
+ 
+
